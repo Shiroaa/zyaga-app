@@ -17,7 +17,7 @@
 
     @auth
     <li class="nav-item">
-      <a class="nav-link" href=""><i class="fas fa-headset mr-1"></i>飲み会を始める</a>
+      <a class="nav-link" href="{{ route('articles.create') }}"><i class="fas fa-headset mr-1"></i>飲み会を始める</a>
     </li>
     @endauth
 
