@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand navbar-dark purple-gradient">
 
-  <a class="navbar-brand" href="/"><i class="fas fa-glass-martini mr-1"></i>Virtual Drink(仮称)</a>
+  <a class="navbar-brand" href="/"><i class="fas fa-glass-martini mr-1"></i>Random Drink</a>
 
   <ul class="navbar-nav ml-auto">
     @guest
